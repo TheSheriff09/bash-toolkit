@@ -1,0 +1,6 @@
+This script checks the strength of a password.
+Usage: password.sh [-h] [-v] [-t] password
+Options:
+  -h  Display this help message.
+  -v  Display the script version and authors.
+  -t  Test the provided password.
