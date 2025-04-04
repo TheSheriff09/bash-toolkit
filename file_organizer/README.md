@@ -9,4 +9,4 @@ A Bash script to automatically sort files into folders (`Text/Images/Videos/Othe
 
 ## Usage  
 ```bash
-./script_report.sh.sh /path/to/your/directory
+./script_report.sh /path/to/your/directory
