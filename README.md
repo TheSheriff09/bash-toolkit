@@ -1,2 +1,8 @@
-🔧 Bash Toolkit | File Organizer + Password Validator
-"Two handy Bash scripts: organize files into folders, and validate password strength. Linux/macOS ready."
+# 🛠️ Bash Toolkit  
+
+Two practical Bash scripts for file management and security:  
+
+1. **📂 File Organizer**: Sort files into folders (Text/Images/Videos/Others).  
+2. **🔒 Password Validator**: Enforce strong password policies.  
+
+---
